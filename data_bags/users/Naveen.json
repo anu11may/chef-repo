@@ -1,0 +1,11 @@
+{
+  "id"       : "naveen",
+  "comment"  : "Naveen Bansal",
+  "home"     : "/home/naveenb",
+  "groups"   : ["friends", "admin"],
+  "ssh_keys" : [
+    "AAA123...xyz== foo",
+    "AAA456...uvw== bar"
+  ]
+}
+
